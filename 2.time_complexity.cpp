@@ -1,5 +1,4 @@
 // maximum subarray sum
-#include <cmath>
 #include <iostream>
 
 using namespace std;
@@ -29,7 +28,7 @@ int main() {
   //   }
   // }
 
-  // O(n) Kadane's a;
+  // O(n) Kadane's algorithm;
   // The idea is to calculate, for each array position, the maximum sum of a
   // subarray that ends at that position. After this, the answer for the problem
   // is the maximum of those sums. Consider the subproblem of finding the
