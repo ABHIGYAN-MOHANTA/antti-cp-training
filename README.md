@@ -1,4 +1,4 @@
-# Competitive Programming Training Repository
+# antti-cp-training
 
 This repository is my personal playground for the sport of competitive programming! 🚀 Here, I work through Antti Laaksonen's [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf), solving problems and implementing algorithms purely for the joy of the challenge and the thrill of problem-solving.
 
